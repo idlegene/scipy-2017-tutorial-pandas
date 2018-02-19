@@ -37,3 +37,6 @@ Click this and select `Python 3`.
     - click download zip
     - extract
     - celebrate
+    
+# Launch in binder
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/idlegene/scipy-2017-tutorial-pandas/master)
